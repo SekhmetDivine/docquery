@@ -1,5 +1,7 @@
 # docquery
 
+> https://github.com/SekhmetDivine/docquery
+
 A command-line RAG (Retrieval-Augmented Generation) tool. Ask questions about your own documents and get answers grounded in their actual content, with source citations.
 
 ## How it works
